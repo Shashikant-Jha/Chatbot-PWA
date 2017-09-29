@@ -1,0 +1,74 @@
+{
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "prefix": false
+      },
+      "/some/routes-group-prefix": {
+        "prefix": true
+      },
+      "/some/specific-route": {
+        "prefix": false
+      }
+    }
+  },
+  "static": {
+    "urls": {
+      "/me-transparent.2317bd9953d1e185d0de.png": "ff0b4d36dcb48ea0bdc1f1f8d0e5ea42cfac9083",
+      "/fontawesome-webfont.674f50d287a8c48dc19b.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+      "/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+      "/fontawesome-webfont.912ec66d7572ff821749.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+      "/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
+      "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+      "/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3",
+      "/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
+      "/glyphicons-halflings-regular.448c34a56d699c29117a.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
+      "/glyphicons-halflings-regular.89889688147bd7575d63.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
+      "/glyphicons-halflings-regular.fa2772327f55d8198301.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
+      "/polyfills.a30dd5453b158546de2e.bundle.js": "7c10ca088d639aac9bab14723e759e22533bf718",
+      "/main.6a7fb0d7c46cdfcb6fb8.bundle.js": "be90167b4b0bf733ebae93d10e327ae060739e37",
+      "/scripts.622d0edb86269ac73a03.bundle.js": "775f47c92309319084460a7e6ce308e956b27605",
+      "/sw-register.d5ba193e5f17507fd51e.bundle.js": "963462a5a25fd2faafe5af76d6cc21b0dc3691c6",
+      "/vendor.11038e1238ea90b85177.bundle.js": "19e55d8ff59058273b15a3c2cf28090b9a0b31f3",
+      "/inline.f6601216358551ed02b5.bundle.js": "043ada072e3b27fd6ce8f368b01d8831e6e0fbf7",
+      "/styles.fc41d5adf4b7e4a95188.bundle.css": "83739f841b974c2ad688c9b9181a8167011f35ea",
+      "/assets/android-icon-192x192.png": "216a8f9f8f09f7e22eb5845225401f3b86fd3df2",
+      "/assets/android-icon-144x144.png": "f38c33542146415a86ba3e2fd5eeae05efa83fe9",
+      "/assets/android-icon-36x36.png": "d76bbc74466edd4be6531335daed0adcbca97334",
+      "/assets/android-icon-48x48.png": "496f50a1159b3330eb29df58e8ad6972674613aa",
+      "/assets/android-icon-72x72.png": "654aa2708eaa0568a362f192e392ac018f4de206",
+      "/assets/android-icon-96x96.png": "c176cfad7dc16101f20e824d97d3758216e0631b",
+      "/assets/apple-icon-114x114.png": "f9274d63051ab37334a42a6b271f414ebd992760",
+      "/assets/apple-icon-120x120.png": "a921b96887bb17dbbdab8933cde6f3c011027d5e",
+      "/assets/apple-icon-144x144.png": "f38c33542146415a86ba3e2fd5eeae05efa83fe9",
+      "/assets/apple-icon-152x152.png": "401ac632d1ee464bbd38870e4ec506b79b38d4d8",
+      "/assets/apple-icon-180x180.png": "28275664c13701cb5fc0a004938ff1a524d6e709",
+      "/assets/apple-icon-57x57.png": "ea2b2bc5b042180853f01e9fb7ce250ad75b7dae",
+      "/assets/apple-icon-60x60.png": "ad5ba30b3d1c21acdb8e99b52ef400067fa30d76",
+      "/assets/apple-icon-72x72.png": "654aa2708eaa0568a362f192e392ac018f4de206",
+      "/assets/apple-icon-76x76.png": "0e8f33d42da181bb5b222e2fed70ffa3ea1935ba",
+      "/assets/apple-icon-precomposed.png": "85dd962a61fd595489107fb8e9ed7737c901e999",
+      "/assets/apple-icon.png": "85dd962a61fd595489107fb8e9ed7737c901e999",
+      "/assets/browserconfig.xml": "974aea18bda5a95802c06b80126ab1d96d91d708",
+      "/assets/chat.png": "c82856245a5ca511c2b624e8ef818c8e162fc04d",
+      "/assets/favicon-16x16.png": "a488bdc350e9259de85e6b9d3dfa81b0b40c5679",
+      "/assets/favicon-32x32.png": "4f4fa7df5d9e2ae8cd4909a361e909470eccb09a",
+      "/assets/favicon-96x96.png": "c176cfad7dc16101f20e824d97d3758216e0631b",
+      "/assets/favicon.ico": "19c1a3e3c3a19a7d2e17b2d04354f367bd69bf05",
+      "/assets/manifest.json": "04bb9f3bc2fc5f8f40146d2d49ff84f4ccce52f8",
+      "/assets/me-transparent.png": "ff0b4d36dcb48ea0bdc1f1f8d0e5ea42cfac9083",
+      "/assets/ms-icon-144x144.png": "f38c33542146415a86ba3e2fd5eeae05efa83fe9",
+      "/assets/ms-icon-150x150.png": "25e337c491dba21d7ab208f8405eb05aaa57f7e1",
+      "/assets/ms-icon-310x310.png": "cc38a3d707726b1afe8cb047816219e1ccd51c30",
+      "/assets/ms-icon-70x70.png": "72b71c36e7cb31ba32ae3e5e2af16e9afc0953a6",
+      "/assets/robot-icon.png": "6aa5c9120285e4fa01b1df9905a25fb42c0c7cce",
+      "/assets/safari-pinned-tab.svg": "8c658ef36a3c71967206051a90ce004a196a12a8",
+      "/assets/test.json": "c9f9e26e22c23208bd5c0e87036f9e5f9d968e54",
+      "/assets/user-icon.png": "82bacdc6e377cd522ba7ee18c7c5b913f13b51db",
+      "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "/index.html": "32833700af39cf6e5abb4a443a14f21ebfb50d71"
+    },
+    "_generatedFromWebpack": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "address",
+    "isOverridable": true,
+    "entries": [{
+            "value": "Which address are you looking for? I can help you with <ul> <li>Overnight mailing address</li> <li>address for service requests and written inquiries</li> <li>address for premium payments</li></ul>",
+            "synonyms": [
+                "address"
+            ]
+        },
+        {
+            "value": "Overnight, FedEx and Certified mail delivery should be directed to; <p>Lincoln Financial Group 100 North Greene Street Greensboro, NC 27401</p>",
+            "synonyms": [
+                "overnight mailing address"
+            ]
+        },
+        {
+            "value": "Written inquiries and service requests should be directed to one of the following; <p> <b>Standard Mail:</b> Lincoln Financial Group PO Box 21008 Greensboro, NC  27420<p> <p><b>Fax:</b> 800-819-1987</p> <p><b>Email:</b> <a href='custservsupportteam@lfg.com'>custservsupportteam@lfg.com</a></p>",
+            "synonyms": [
+                "address for written inquiries and service requests",
+                "address for written inquiries",
+                "address for service requests",
+                "service requests address",
+                "written inquiries address"
+            ]
+        },
+        {
+            "value": "Premium payments can be directed to one of the following: <p><b>Standard Mail:</b> Lincoln Financial Group PO Box 21008 Greensboro, NC  27420</p> <p><b>Overnight Mailing:</b> Lincoln Financial Group 100 North Greene Street Greensboro, NC  27401</p>",
+            "synonyms": [
+                "mailing address for premium payment",
+                "address for premium payment",
+                "premium payment address",
+                "premium payment mailing address"
+            ]
+        }
+    ],
+    "isEnum": false,
+    "automatedExpansion": false
+}
